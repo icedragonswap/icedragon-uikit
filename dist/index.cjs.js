@@ -2225,12 +2225,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/joinchat/5WGspdLKPWkxOThh",
+        href: "https://t.me/joinchat/hnmbah0nhFwzNDFh",
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/KingdomofPoseid",
+        href: "https://twitter.com/firedragonfinan",
     },
 ];
 var MENU_HEIGHT = 64;
