@@ -40,7 +40,7 @@ const removePointerEvents = ({ disabled, as }: ThemedProps) => {
 
 const getButtonVariantProp = (prop: keyof ButtonThemeVariant) => ({
   theme,
-  variant = variants.PRIMARY,
+  variant = variants.SUBTLE,
 }: ThemedProps) => {
   return theme.button[variant][prop];
 };
